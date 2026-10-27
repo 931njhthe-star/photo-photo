@@ -34,13 +34,13 @@
 1. 인물 탐지: 이미지에서 사람의 위치를 찾음 (YOLO 등).
 2. Segmentation: 사람에 해당하는 픽셀을 구분해 마스크 생성.
 3. 영역 분리: 마스크를 이용해 인물과 배경을 분리.
-<img width="400" height="269" alt="image" src="https://github.com/user-attachments/assets/a0d80327-4019-4590-ba90-28c54f6c9565" />
+<img width="400" height="269" alt="image" src="https://github.com/user-attachments/assets/a0d80327-4019-4590-ba90-28c54f6c9565" /><br>
 <객체 탐지 (Object Detection)>
-<img width="400" height="269" alt="image" src="https://github.com/user-attachments/assets/84a2e308-1612-41f7-bcf8-4f1cb7d9fc68" />
+<img width="400" height="269" alt="image" src="https://github.com/user-attachments/assets/84a2e308-1612-41f7-bcf8-4f1cb7d9fc68" /><br>
 <세그멘테이션 (Segmentation)>
-<img width="400" height="269" alt="image" src="https://github.com/user-attachments/assets/f425745e-87e4-42bd-8025-0ae45570c597" />
+<img width="400" height="269" alt="image" src="https://github.com/user-attachments/assets/f425745e-87e4-42bd-8025-0ae45570c597" /><br>
 <SAM : 1. 클릭으로 객체 선택>
-<img width="400" height="269" alt="image" src="https://github.com/user-attachments/assets/02dbacbf-acd8-4544-b26a-2ba6f943eeb9" />
+<img width="400" height="269" alt="image" src="https://github.com/user-attachments/assets/02dbacbf-acd8-4544-b26a-2ba6f943eeb9" /><br>
 <SAM : 2. 여러 객체를 개별 분리>
 
 ## 3. 서비스 이용 예시
