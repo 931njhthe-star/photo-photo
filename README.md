@@ -31,9 +31,9 @@
 | MediaPipe | 빠른 인물·배경 분리, 얼굴 인식       |
 | YOLO-seg  | 여러 사람이나 객체를 개별적으로 탐지·분할  |
 | SAM       | 사용자가 클릭하거나 지정한 객체를 정밀 분할 |
-1. 인물 탐지: 이미지에서 사람의 위치를 찾음 (YOLO 등).
+1. YOLO 객체 탐지: 이미지에서 사람의 위치를 찾음 (YOLO 등).
 2. Segmentation: 사람에 해당하는 픽셀을 구분해 마스크 생성.
-3. 영역 분리: 마스크를 이용해 인물과 배경을 분리.
+3. SAM 영역 분리: 마스크를 이용해 인물과 배경을 분리.
 
 <img width="400" height="269" alt="image" src="https://github.com/user-attachments/assets/a0d80327-4019-4590-ba90-28c54f6c9565" /><br>
 <객체 탐지 (Object Detection)><br>
