@@ -90,6 +90,6 @@ Adobe 공식 가이드 등
 - Adobe 공식 마스크 활용 가이드
 - Adobe 공식 배경 흐림 가이드
 
-## 7. 그외 고려할 영상 편집 API
+## 7. 고려할 영상 편집 API
 - Cloudinary API : 자동 이미지 향상, 색감·대비 자동 개선 등
 - Photoroom API : AI 배경 제거, 지원되는 고급 편집 기능 등
